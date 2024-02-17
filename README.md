@@ -1,7 +1,5 @@
 ## Hello!
-My name is Jonathan Evans (jevndev*). I am a software developer/computer scientist with an unmaintainable number of interests and no time to embrace them.
-
-\* Pronounced "J-ev-in-dev"
+My name is Jonathan Evans. I am a software developer/computer scientist with an unmaintainable number of interests and no time to embrace them.
 
 ## Interest Areas
 
