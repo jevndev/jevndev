@@ -5,6 +5,7 @@ My name is Jonathan Evans. I am a software developer/computer scientist with an 
 
 * Perception technologies (object detection/tracking/state estmation)
 * Autonomous Robots (motion planning/path planning)
+* Modern C++
 * Sensor Fusion
 * High performance numerical computing
 * Recreational Mathematics
